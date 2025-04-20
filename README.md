@@ -1,4 +1,5 @@
 ## Hi there 👋
+![Ajee10x's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ajee10x&show_icons=true&theme=default)
 
 <!--
 **Sanjana2906/Sanjana2906** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

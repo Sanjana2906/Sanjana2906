@@ -1,5 +1,5 @@
 ## Hi there 👋
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sanjana2906&show_icons=true&t=1745876543)
+![Your updated stats card](https://gh-stats.com/api?username=Sanjana2906&show_icons=true)
 
 <!--
 **Sanjana2906/Sanjana2906** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
